@@ -1,0 +1,9 @@
+{
+  "test_rmse": 1.4121,
+  "test_r2": 0.7571,
+  "n_drugs": 20,
+  "n_targets": 10,
+  "n_samples": 200,
+  "features": "1030 (Morgan fingerprints + molecular descriptors)",
+  "model": "XGBoost Regressor"
+}
